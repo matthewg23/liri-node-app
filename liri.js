@@ -26,7 +26,7 @@ switch (command) {
     break
 
     case 'do-what-it-says':
-        dowhatitsays();
+    dowhatitsays();
     break
 };
 
